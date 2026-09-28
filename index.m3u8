@@ -3,6 +3,6 @@
 #EXT-X-TARGETDURATION:600
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:600.0,
-https://raw.githubusercontent.com/creativegoutom/m3u8-stream/main/km_20260928_1080p_30f_20260928_120435.mp4
+https://cdn.jsdelivr.net/gh/creativegoutom/m3u8-stream@main/km_20260928_1080p_30f_20260928_120435.mp4
 #EXT-X-ENDLIST
-https://github.com/creativegoutom/m3u8-stream/raw/refs/heads/main/km_20260928_1080p_30f_20260928_120435.mp4
+https://cdn.jsdelivr.net/gh/creativegoutom/m3u8-stream@main/index.m3u8
